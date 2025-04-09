@@ -1,0 +1,5 @@
+Flask==2.3.3
+nvdlib==0.7.3
+Werkzeug==2.3.7
+python-dateutil==2.8.2
+requests==2.31.0

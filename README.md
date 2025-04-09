@@ -1,5 +1,7 @@
 # CVEExplorer
 
+![cveexplorer_personified](assets/cveexplorer_personified.png)
+
 A lightweight RESTful Flask API for retrieving and exploring CVE (Common Vulnerabilities and Exposures) data from the National Vulnerability Database (NVD).
 
 ## Overview
